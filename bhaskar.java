@@ -1,2 +1,2 @@
-Hi, this is sample program
+Hi, this is sample 
 updating file
